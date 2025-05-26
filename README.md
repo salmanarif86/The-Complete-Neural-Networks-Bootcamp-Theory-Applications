@@ -45,3 +45,80 @@ Post-Deal & Long-Term Advisory
 	•	Investor Relations / Earnings Call Prep
 	•	Liquidity Event Planning (e.g., Dual Track IPO/M&A)
 	•	Refinancing & Liability Management
+
+Here are suggested talking points for each takeaway (in the same format as the “Retention Concerns” talking point in your screenshot):
+
+⸻
+
+1. Q1 Revenue Beat
+
+Suggested Talking Point:
+“What parts of the enterprise segment are driving the most renewal velocity—and are you seeing this trend hold across regions?”
+
+⸻
+
+2. AI Expansion Strategy
+
+Suggested Talking Point:
+“As you expand AI automation into the mid-market, how are you tailoring pricing and implementation to match the cost sensitivity in that segment?”
+
+⸻
+
+3. Retention Concerns (Already shown)
+
+Suggested Talking Point:
+“How are you addressing retention friction in the lower-tier accounts as you expand AI to the mid-market?”
+
+⸻
+
+4. Strong Backlog Position
+
+Suggested Talking Point:
+“Given the $10.3B backlog, how are you prioritizing delivery capacity and services ramp-up to ensure timely conversion to revenue?”
+
+⸻
+
+5. Moveworks Integration in Progress
+
+Suggested Talking Point:
+“What have been the biggest operational hurdles in integrating Moveworks—and is there a structured post-integration plan to stabilize delivery?”
+
+⸻
+
+6. Earnings Call Sentiment
+
+Suggested Talking Point:
+“Can you share more about the flagged GTM and partner enablement risks—what corrective actions are in motion?”
+
+⸻
+
+7. Customer Concentration Risk
+
+Suggested Talking Point:
+“With 35% of revenue from top 10 clients, how are you managing dependency risk and expanding penetration across under-indexed verticals?”
+
+⸻
+
+8. Valuation Supportive of Capital Deployment
+
+Suggested Talking Point:
+“Are there specific tuck-in acquisition areas you’re evaluating to accelerate product roadmap or vertical expansion?”
+
+⸻
+
+9. Competitive Activity
+
+Suggested Talking Point:
+“How are you responding to Salesforce’s GenAI momentum in enterprise workflow—any near-term differentiation bets in motion?”
+
+⸻
+
+10. Open Relationship Thread
+
+Suggested Talking Point:
+“In our previous meeting, strategic partnerships were a key focus—what’s top of mind now as you approach post-deal integration?”
+
+⸻
+
+Let me know if you’d like these reformatted into slide-ready content or visual tiles.
+
